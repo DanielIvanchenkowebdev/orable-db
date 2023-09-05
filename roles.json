@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6421411027ef7341e8bd8b2b"
+  },
+  "order": 1,
+  "title": "admin",
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679900944752"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679901164756"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "64215392084c91459a79e07a"
+  },
+  "title": "player",
+  "order": 2,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679905682501"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679905682501"
+    }
+  },
+  "__v": 0
+}]

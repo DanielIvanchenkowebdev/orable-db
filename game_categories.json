@@ -1,0 +1,195 @@
+[{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b34"
+  },
+  "no": 1,
+  "name": "LIVE CASINO",
+  "code": 1,
+  "state": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299403"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686295925273"
+    }
+  },
+  "icon": "https://5823242400382459.oss-cn-hongkong.aliyuncs.com/f33d579f659d48918e4deba8d6eb34bb.png"
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b35"
+  },
+  "no": 2,
+  "name": "SLOT",
+  "code": 2,
+  "state": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "icon": "https://5823242400382459.oss-cn-hongkong.aliyuncs.com/c30cbb461d1b46f988fb72d8e8ef75a7.png"
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b36"
+  },
+  "no": 3,
+  "name": "SPORTBOOK",
+  "code": 3,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b37"
+  },
+  "no": 4,
+  "name": "LOTTO",
+  "code": 4,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b38"
+  },
+  "no": 5,
+  "name": "CARD AND BOARD",
+  "code": 5,
+  "state": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "icon": "https://betfury.io/images/common/raster-icons/icon-table.png"
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b39"
+  },
+  "no": 6,
+  "name": "FISH HUNTER",
+  "code": 6,
+  "state": true,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299404"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1687025043839"
+    }
+  },
+  "icon": "https://betfury.io/images/common/raster-icons/icon-lobby.png"
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b3a"
+  },
+  "no": 7,
+  "name": "E-SPORT",
+  "code": 7,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b3b"
+  },
+  "no": 8,
+  "name": "OTHERS",
+  "code": 8,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b3c"
+  },
+  "no": 9,
+  "name": "COCK FIGHTING",
+  "code": 9,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "647e00a3d0e84cd38da61b3d"
+  },
+  "no": 10,
+  "name": "VIRTUAL SPORT",
+  "code": 10,
+  "state": false,
+  "__v": 0,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1685979299405"
+    }
+  }
+}]

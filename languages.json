@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "62323ab080f327ca776c4645"
+  },
+  "label": "English",
+  "value": "en",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647458992868"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647459009241"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62323be380f327ca776c571e"
+  },
+  "label": "Japanese",
+  "value": "ja",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647459299831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647459299831"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62333010103f5bdfd6319987"
+  },
+  "label": "Spanish",
+  "value": "es",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647521808441"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647521808441"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62333042103f5bdfd6319c21"
+  },
+  "label": "Portuguese",
+  "value": "pt",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647521858379"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647521858379"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6233309b103f5bdfd631a036"
+  },
+  "label": "Turkish",
+  "value": "tr",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647521947310"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647521947310"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623330f9103f5bdfd631a4b0"
+  },
+  "label": "Thai",
+  "value": "th",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647522041282"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647522041282"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6233313e103f5bdfd631a806"
+  },
+  "label": "German",
+  "value": "de",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647522110662"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647522110662"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62333198103f5bdfd631ac28"
+  },
+  "label": "Chinese",
+  "value": "zh",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647522200314"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647522200314"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623331d3103f5bdfd631af0f"
+  },
+  "label": "French",
+  "value": "fr",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647522259067"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647522259067"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6233321b103f5bdfd631b2e3"
+  },
+  "label": "Vietnamese",
+  "value": "vi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647522331557"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1647522331557"
+    }
+  },
+  "__v": 0
+}]

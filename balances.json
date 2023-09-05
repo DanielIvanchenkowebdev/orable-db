@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "642141ec2df3f367b024bd85"
+  },
+  "userId": {
+    "$oid": "642141ec2df3f367b024bd84"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1679901164979"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1679901164979"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6435be0739e419e2202e8d33"
+  },
+  "userId": {
+    "$oid": "6435be0739e419e2202e8d32"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 79.49,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681243656122"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1687008539243"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6437ef92a0da6a3559118e46"
+  },
+  "userId": {
+    "$oid": "6437ef92a0da6a3559118e45"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681387414546"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681387414546"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645a9211878b31897115f77f"
+  },
+  "userId": {
+    "$oid": "645a9211878b31897115f77e"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683657234089"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683657234089"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645aaf2d97eb7f2428d9a342"
+  },
+  "userId": {
+    "$oid": "645aaf2d97eb7f2428d9a341"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1683664685949"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1683664685949"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64888cf81fbb60724d6a08ff"
+  },
+  "userId": {
+    "$oid": "64888cf81fbb60724d6a08fe"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1686670584458"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1686670584458"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64992c3ea68f3cf505164f39"
+  },
+  "userId": {
+    "$oid": "64992c3ea68f3cf505164f38"
+  },
+  "currency": {
+    "$oid": "61d45a9c72e5042aaffea2af"
+  },
+  "balance": 0,
+  "status": true,
+  "disabled": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1687759935079"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1687759935079"
+    }
+  },
+  "__v": 0
+}]
